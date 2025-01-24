@@ -1,14 +1,23 @@
-FennecCyber Coder: Algeria’s Coding AI Chatbot 🚀
-Powered by Qwen 2.5 Coder 7B — Smarter, Faster, Local.
+FennecCyber Coder: 100% Local & Private AI for Algerian Coders 🦊🔒
+Powered by Qwen 2.5 Coder 7B — Hosted Locally, Zero Data Leaves Algeria.
 
-💻 Tailored for Algerian Coders: Pay in DA via BaridiMob — No Hassles, Just Results.
-🎯 Outperforms ChatGPT: Precision Code Help for Students & Developers.
+Why Choose Us?
+🔐 Full Privacy: Your code & queries stay in Algeria — no foreign servers, no third-party tracking.
+🇩🇿 Made for Algeria: Pay in DA via BaridiMob • Affordable tiers (100 DA = 10 Prompts).
+💡 Smarter Than ChatGPT: Precision coding help for students — algorithms, debugging, projects.
 
-Start Now:
-🔑 10/25/100 Prompts Tiers • 100 DA = 10 Premium Prompts
-📥 Download & Code Smarter Today!
+📥 Download Now & Code Confidently — No VPNs, No Foreign Fees, Just Algerian-Made Power.
 
-For Devs, By Devs — Built for Algeria’s Coding Revolution.
+Key Features:
+🛡️ Data Sovereignty: All processing done locally — your code never crosses borders.
+
+💰 DZ-First Pricing: No hidden fees, no currency conversion — pay like a local.
+
+🚀 Outperform ChatGPT: Get coding answers that actually work for Algerian universities.
+
+Join Algeria’s Coding Revolution — Privacy, Affordability, Excellence.
+
+
 
 
 INSTALLATION:
