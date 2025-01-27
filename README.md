@@ -43,7 +43,7 @@ INSTALLATION:
 
 2 - Run it as Administrator	
 
-3 - Paste your access code (request/purchase yours at https://t.me/fenneccyber)	(send: BUY-CODE)
+3 - Paste your access code (purchase yours at: WHATSAPP +213779465345 Send Message: CODE)
 
 4 - Done. Have fun!	
 
