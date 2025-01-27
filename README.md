@@ -38,8 +38,6 @@ No VPNs. No foreign fees. Just powerful, private AI tailored for productivity.
 Join Algeria’s AI Revolution Today
 Privacy. Innovation. Excellence.
 
-https://github.com/user-attachments/assets/b2c350dd-53a4-4301-8eba-07bb2ff48ddf
-
 -------------------------------------------------------------------------------
 
 FennecCoder 🦊🔒 is a locally hosted AI-powered app utilizing advanced models like Qwen 2.5 Coder, Gemma 2, Llama 3.1, and DeepSeek-R1. Built for maximum privacy, all data is processed on a high-performance PC with zero reliance on external servers. Offering affordable tiers starting at 100 DA via BaridiMob, FennecCyber Coder empowers users to boost productivity with precise coding assistance and debugging tools. Currently in early development, it’s your chance to join and shape the future of AI assistants in Algeria!
