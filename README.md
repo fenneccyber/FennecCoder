@@ -53,10 +53,11 @@ INSTALLATION (Command Prompt Interface):
 3 - Paste your access code (purchase yours at: https://wa.me/c/213779465345)
 
 4 - Done. Have fun!	
+
 -----------------------------------------------------------------------------
+
 USAGE:
 1 - OPEN : https://fenneccyber.duckdns.org/
-
-
+------------------------------------------
 
 SOURCE CODE COMING SOON.
