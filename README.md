@@ -16,17 +16,6 @@ AI assistance has never been this simple or accessible. Check it out today! 🚀
 
 
 
-
-
-https://github.com/user-attachments/assets/b2c350dd-53a4-4301-8eba-07bb2ff48ddf
-
-
-
-
-
-
-
-
 FennecCoder 🦊🔒
 100% Local & Private AI for Coders
 
