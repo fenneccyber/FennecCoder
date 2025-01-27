@@ -1,3 +1,32 @@
+V1.0.1 WEB RELEASE IS LIVE! 🎉
+
+FennecCoder by FennecCyber has officially launched the final Web Version of the application! Now fully accessible through your favorite browser, making AI Chat Assistance easier than ever — right here in Algeria!
+
+What’s New in V1.0.1?
+✅ Better UI: Sleek and more user-friendly interface.
+✅ Improved Cache Management: Faster and smoother performance.
+✅ Better Performance: Optimized for speed and stability.
+✅ More Stable: Enhanced reliability for a seamless experience.
+✅ Easier to Use: Intuitive design for effortless interaction.
+✅ More Accessible: Just open your browser and start using FennecCoder!
+
+🌐 Visit now at: fenenccyber.duckdns.org
+
+AI assistance has never been this simple or accessible. Check it out today! 🚀
+
+
+
+
+
+https://github.com/user-attachments/assets/b2c350dd-53a4-4301-8eba-07bb2ff48ddf
+
+
+
+
+
+
+
+
 FennecCoder 🦊🔒
 100% Local & Private AI for Coders
 
@@ -19,13 +48,6 @@ No VPNs. No foreign fees. Just powerful, private AI tailored for productivity.
 
 Join Algeria’s AI Revolution Today
 Privacy. Innovation. Excellence.
-
-
-
-
-
-https://github.com/user-attachments/assets/b2c350dd-53a4-4301-8eba-07bb2ff48ddf
-
 
 
 
