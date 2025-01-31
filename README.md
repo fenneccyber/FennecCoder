@@ -1,3 +1,23 @@
+ v1.0.2 IS HERE! 
+
+What’s New in v1.0.1?
+✅ Copy Button for Code Snippets – Quickly copy code with one click.
+✅ Long Conversation Context (Memory) – AI now remembers previous interactions for better responses.
+✅ Chat History – All chats are linked to your access code, so you never lose progress.
+✅ New Coloring & Improved UI – A fresh, modern look for a better experience.
+✅ Faster Performance – Optimized speed for smoother and more responsive AI interactions.
+✅ More Stability – Reduced crashes and improved reliability.
+✅ Lighter & More Efficient – Works better even on low-end devices.
+✅ Bug Fixes – Numbers now display correctly in assistance responses.
+
+Now faster, more stable, and easier to use than ever!
+
+ Try it now: https://fenneccyber.duckdns.org/
+
+ "You don't have to own a powerful machine to use this AI!"
+
+---------------------------------------------------------------------------------
+
 V1.0.1 WEB RELEASE IS LIVE! 🎉
 
 FennecCoder by FennecCyber has officially launched the final Web Version of the application! Now fully accessible through your favorite browser, making AI Chat Assistance easier than ever — right here in Algeria!
