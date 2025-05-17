@@ -1,3 +1,6 @@
+VIDEO SHOWCASE: https://youtu.be/7iOCkHXdPKc?si=iPHx3JGGUa5OrMoO
+
+
  v1.0.2 IS HERE! 
 
 What’s New in v1.0.1?
